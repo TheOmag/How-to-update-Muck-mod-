@@ -1,4 +1,4 @@
-##How To Update/Install thunderstore mods:
+# How To Update/Install thunderstore mods:
 
 ##Method 1:
 	First go to https://muck.thunderstore.io/ and find the mod you want/update.
